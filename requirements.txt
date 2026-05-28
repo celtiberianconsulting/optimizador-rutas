@@ -5,3 +5,4 @@ requests
 folium
 streamlit-folium
 openpyxl
+polyline
